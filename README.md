@@ -9,7 +9,9 @@ A simple yet functional calculator application built using **Python** and **Cust
 - **Error Handling**: Displays an error message for invalid inputs.
 
 ##**Application Preview**""
+
 ![Screenshot 2025-02-07 090051](https://github.com/user-attachments/assets/a6238709-9ee9-430a-b02e-0bce74814172)
+
 ![Screenshot 2025-02-07 090042](https://github.com/user-attachments/assets/38163f0b-c0e6-455d-a393-240c9899dfdc)
 
 
