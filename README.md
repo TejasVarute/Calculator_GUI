@@ -10,14 +10,14 @@ A simple yet functional calculator application built using **Python** and **Cust
 
 ## **Application Preview**
 
-**Light Theme**
+<h4 align="center">Light Theme</h4>
 
 <div align="center">
   <img src="./Screenshot/light.png" alt="Calculator UI" width="400"/>
 </div>
 
 
-**Dark Theme**
+<h4 align="center">Dark Theme</h4>
 
 <div align="center">
   <img src="./Screenshot/dark.png" alt="Calculator UI" width="400"/>
