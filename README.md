@@ -12,7 +12,10 @@ A simple yet functional calculator application built using **Python** and **Cust
 
 **Light Theme**
 
-![Screenshot 2025-02-07 090051](https://github.com/user-attachments/assets/a6238709-9ee9-430a-b02e-0bce74814172)
+<div align="center">
+  <img src="./Screenshot/light.png" alt="Calculator UI" width="400"/>
+</div>
+
 
 **Dark Theme**
 
