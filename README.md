@@ -19,7 +19,10 @@ A simple yet functional calculator application built using **Python** and **Cust
 
 **Dark Theme**
 
-![Screenshot 2025-02-07 090042](https://github.com/user-attachments/assets/38163f0b-c0e6-455d-a393-240c9899dfdc)
+<div align="center">
+  <img src="./Screenshot/dark.png" alt="Calculator UI" width="400"/>
+</div>
+
 
 
 ## **Installation**  
